@@ -1,4 +1,3 @@
-# Welcome to Sonic Pi v2.7
 
 beat = 0
 bar = 0
